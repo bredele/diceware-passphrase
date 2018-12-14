@@ -17,8 +17,6 @@ passphrase()
 // => ['zoom', 'clamp', 'dedicate', 'armed', 'sworn', 'unroll', 'dial']
 ```
 
-You can change the entropy by changing the number of rolls (first argument) as well as the diceware word list (second argument).
-
 
 ## Installation
 
