@@ -4,6 +4,8 @@
 
 const word = require('diceware-word')
 
-module.exports = (entropy, dictionary) => {
-
+module.exports = (entropy = 7, dictionary) => {
+  const words = []
+  while (entropy--) words.push(word())
+  return words
 }
