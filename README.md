@@ -5,7 +5,7 @@
  [![Downloads](https://img.shields.io/npm/dm/diceware-passphrase.svg)](http://npm-stat.com/charts.html?package=diceware-passphrase)
  [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/guidelines.md)
 
-Create [diceware](https://en.wikipedia.org/wiki/Diceware) passphrase you can actually remember! This module is based on the principle that truly random selection of words from a wordlist, can result in easily memorable passwords that are also extremely resistant to attack.
+Create [diceware](https://en.wikipedia.org/wiki/Diceware) password/passphrase you can actually remember! This module is based on the principle that truly random selection of words from a wordlist, can result in easily memorable passwords that are also extremely resistant to attack.
 
 ## Usage
 
