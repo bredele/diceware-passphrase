@@ -10,11 +10,11 @@ Create [diceware](https://en.wikipedia.org/wiki/Diceware) passphrase you can act
 ## Usage
 
 ```js
-const word = require('diceware-passphrase')
+const passphrase = require('diceware-passphrase')
 
-// generate random diceware word
-word()
-// => zoom
+// generate random diceware passphrase
+passphrase()
+// => ['zoom', 'clamp', 'dedicate', 'armed', 'sworn', 'unroll', 'dial']
 ```
 
 You can change the entropy by changing the number of rolls (first argument) as well as the diceware word list (second argument).
