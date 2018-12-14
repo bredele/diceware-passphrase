@@ -23,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/bredele/diceware-passphrase/issues"
   },
-  "homepage": "https://github.com/bredele/diceware-passphrase#readme"
+  "homepage": "https://github.com/bredele/diceware-passphrase#readme",
+  "devDependencies": {
+    "diceware-list": "^1.0.0",
+    "tape": "^4.9.1"
+  },
+  "dependencies": {
+    "diceware-word": "^1.0.0"
+  }
 }
